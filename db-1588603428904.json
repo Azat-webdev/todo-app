@@ -48,6 +48,12 @@
       "text": "Redux (redux-observable, redux-saga)"
     },
     {
+      "listId": 2,
+      "text": "dgd",
+      "completed": false,
+      "id": 5
+    },
+    {
       "listId": 4,
       "text": "тест",
       "completed": false,

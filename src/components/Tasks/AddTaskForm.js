@@ -27,7 +27,7 @@ const AddTaskForm = ({ list, onAddTask }) => {
         onAddTask(list.id, data)
         toggleFormVisible()
       })
-      .catch(() => {
+      .catch(e => {
         alert('Ошибка при добавлении задачи!')
       })
       .finally(() => {
